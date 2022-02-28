@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
+    "name": "Abdi",
+    "slug": "Abdi",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/asdasd.png",
+    "icon": "./assets/bunny.png",
     "splash": {
-      "image": "./assets/asdasd.png",
+      "image": "./assets/bunny.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +21,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./asdasd.png",
+        "foregroundImage": "./assets/bunny.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/asdasd.png"
-    }
+      "favicon": "./assets/bunny.png"
+    },
+    "description": "dandik bi abdi oyunu",
+    "githubUrl": "https://github.com/ardagungor/abdi"
   }
 }
